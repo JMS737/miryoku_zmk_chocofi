@@ -13,3 +13,5 @@ jobs:
       alphas: '["qwerty"]'
       kconfig: '["CONFIG_ZMK_SLEEP=y\nCONFIG_ZMK_IDLE_SLEEP_TIMEOUT=600000"]'
       clipboard: '["win"]'
+      extra: '["colemak"]'
+      tap: '["qwerty"]'
